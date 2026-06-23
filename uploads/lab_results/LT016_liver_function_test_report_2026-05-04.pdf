@@ -1,0 +1,76 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> endobj
+6 0 obj << /Length 2319 >> stream
+0.15 0.34 0.45 RG 0.15 0.34 0.45 rg
+42 724 528 42 re f
+1 1 1 rg
+BT /F2 16 Tf 58 748 Td (Telehealth System Clinical Network) Tj ET
+BT /F1 8.5 Tf 58 731 Td (Secure digital care record | Nairobi, Kenya | records@telehealth.local) Tj ET
+0 0 0 rg 0.15 0.34 0.45 RG
+BT /F2 17 Tf 42 694 Td (Laboratory Result Report) Tj ET
+BT /F1 10 Tf 42 676 Td (Liver Function Test | Lab Test ID 16) Tj ET
+1 w 42 665 m 570 665 l S
+0.15 0.34 0.45 rg
+BT /F2 11 Tf 42 640 Td (SPECIMEN DETAILS) Tj ET
+0 0 0 rg
+BT /F1 9.5 Tf 54 622 Td (Lab Test ID: 16     Patient ID: PT016) Tj ET
+BT /F1 9.5 Tf 54 607 Td (Patient: Mercy Kamau     DOB: 1991-05-10     Gender: Female) Tj ET
+BT /F1 9.5 Tf 54 592 Td (Collection date: 2026-02-07 17:28:00     Report status: Pending) Tj ET
+0.15 0.34 0.45 rg
+BT /F2 11 Tf 42 567 Td (INTERPRETATION) Tj ET
+0 0 0 rg
+BT /F1 9.5 Tf 54 549 Td (Findings are consistent with routine outpatient review.) Tj ET
+BT /F1 9.5 Tf 54 534 Td (Abnormal values, where present, should be interpreted with clinical history.) Tj ET
+0.93 0.96 0.98 rg
+42 487 528 22 re f
+0 0 0 RG 0 0 0 rg
+42 421 528 88 re S
+0.7 w 42 509 m 42 421 l S
+0.7 w 192 509 m 192 421 l S
+0.7 w 297 509 m 297 421 l S
+0.7 w 432 509 m 432 421 l S
+0.7 w 570 509 m 570 421 l S
+0.7 w 42 487 m 570 487 l S
+0.7 w 42 465 m 570 465 l S
+0.7 w 42 443 m 570 443 l S
+BT /F2 9 Tf 48 494 Td (Test component) Tj ET
+BT /F2 9 Tf 198 494 Td (Result) Tj ET
+BT /F2 9 Tf 303 494 Td (Reference range) Tj ET
+BT /F2 9 Tf 438 494 Td (Flag) Tj ET
+BT /F1 8.5 Tf 48 472 Td (Liver Function Test) Tj ET
+BT /F1 8.5 Tf 198 472 Td (Normal) Tj ET
+BT /F1 8.5 Tf 303 472 Td (Within expected range) Tj ET
+BT /F1 8.5 Tf 438 472 Td (None) Tj ET
+BT /F1 8.5 Tf 48 450 Td (Sample integrity) Tj ET
+BT /F1 8.5 Tf 198 450 Td (Accepted) Tj ET
+BT /F1 8.5 Tf 303 450 Td (Adequate) Tj ET
+BT /F1 8.5 Tf 438 450 Td (None) Tj ET
+BT /F1 8.5 Tf 48 428 Td (Clinical action) Tj ET
+BT /F1 8.5 Tf 198 428 Td (Routine review) Tj ET
+BT /F1 8.5 Tf 303 428 Td (Provider discretion) Tj ET
+BT /F1 8.5 Tf 438 428 Td (Info) Tj ET
+0.92 0.92 0.92 rg
+42 68 528 46 re f
+0 0 0 rg
+BT /F1 8.5 Tf 54 96 Td (Validated by: Lab Services Desk     Method: Standard analyzer workflow) Tj ET
+BT /F1 8.5 Tf 54 82 Td (This sample laboratory report is generated for Telehealth System testing.) Tj ET
+BT /F1 8 Tf 420 42 Td (Generated: 04 May 2026) Tj ET
+
+endstream endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer << /Size 7 /Root 1 0 R >>
+startxref
+2767
+%%EOF

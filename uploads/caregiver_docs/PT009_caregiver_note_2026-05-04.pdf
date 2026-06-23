@@ -1,0 +1,87 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> endobj
+6 0 obj << /Length 2804 >> stream
+0.15 0.34 0.45 RG 0.15 0.34 0.45 rg
+42 724 528 42 re f
+1 1 1 rg
+BT /F2 16 Tf 58 748 Td (Telehealth System Clinical Network) Tj ET
+BT /F1 8.5 Tf 58 731 Td (Secure digital care record | Nairobi, Kenya | records@telehealth.local) Tj ET
+0 0 0 rg 0.15 0.34 0.45 RG
+BT /F2 17 Tf 42 694 Td (Caregiver Submitted Medical Note) Tj ET
+BT /F1 10 Tf 42 676 Td (Document ID 9 | Patient PT009) Tj ET
+1 w 42 665 m 570 665 l S
+0.15 0.34 0.45 rg
+BT /F2 11 Tf 42 640 Td (PATIENT DETAILS) Tj ET
+0 0 0 rg
+BT /F1 9.5 Tf 54 622 Td (Patient ID: PT009     Name: Joy Kamau) Tj ET
+BT /F1 9.5 Tf 54 607 Td (DOB: 1998-10-17     Gender: Female) Tj ET
+BT /F1 9.5 Tf 54 592 Td (Document source: Caregiver upload \(CG009\)) Tj ET
+0.15 0.34 0.45 rg
+BT /F2 11 Tf 42 567 Td (CLINICAL SUMMARY) Tj ET
+0 0 0 rg
+BT /F1 9.5 Tf 54 549 Td (Primary concern: ongoing remote monitoring and continuity of care.) Tj ET
+BT /F1 9.5 Tf 54 534 Td (Reported symptoms are stable with no emergency warning signs documented.) Tj ET
+BT /F1 9.5 Tf 54 519 Td (Medication adherence and follow-up appointment attendance should be reviewed.) Tj ET
+0.15 0.34 0.45 rg
+BT /F2 11 Tf 42 494 Td (CARE NOTES) Tj ET
+0 0 0 rg
+BT /F1 9.5 Tf 54 476 Td (Vitals reviewed against previous telehealth records.) Tj ET
+BT /F1 9.5 Tf 54 461 Td (Patient advised to continue care plan and report new symptoms promptly.) Tj ET
+0.93 0.96 0.98 rg
+42 414 528 22 re f
+0 0 0 RG 0 0 0 rg
+42 326 528 110 re S
+0.7 w 42 436 m 42 326 l S
+0.7 w 192 436 m 192 326 l S
+0.7 w 312 436 m 312 326 l S
+0.7 w 432 436 m 432 326 l S
+0.7 w 570 436 m 570 326 l S
+0.7 w 42 414 m 570 414 l S
+0.7 w 42 392 m 570 392 l S
+0.7 w 42 370 m 570 370 l S
+0.7 w 42 348 m 570 348 l S
+BT /F2 9 Tf 48 421 Td (Metric) Tj ET
+BT /F2 9 Tf 198 421 Td (Latest) Tj ET
+BT /F2 9 Tf 318 421 Td (Reference) Tj ET
+BT /F2 9 Tf 438 421 Td (Comment) Tj ET
+BT /F1 8.5 Tf 48 399 Td (Blood Pressure) Tj ET
+BT /F1 8.5 Tf 198 399 Td (122/78 mmHg) Tj ET
+BT /F1 8.5 Tf 318 399 Td (< 130/80) Tj ET
+BT /F1 8.5 Tf 438 399 Td (Within target) Tj ET
+BT /F1 8.5 Tf 48 377 Td (Pulse) Tj ET
+BT /F1 8.5 Tf 198 377 Td (76 bpm) Tj ET
+BT /F1 8.5 Tf 318 377 Td (60-100) Tj ET
+BT /F1 8.5 Tf 438 377 Td (Regular) Tj ET
+BT /F1 8.5 Tf 48 355 Td (Temperature) Tj ET
+BT /F1 8.5 Tf 198 355 Td (36.8 C) Tj ET
+BT /F1 8.5 Tf 318 355 Td (36.1-37.2) Tj ET
+BT /F1 8.5 Tf 438 355 Td (Normal) Tj ET
+BT /F1 8.5 Tf 48 333 Td (Oxygen Sat.) Tj ET
+BT /F1 8.5 Tf 198 333 Td (98%) Tj ET
+BT /F1 8.5 Tf 318 333 Td (95-100) Tj ET
+BT /F1 8.5 Tf 438 333 Td (Stable) Tj ET
+0.92 0.92 0.92 rg
+42 68 528 46 re f
+0 0 0 rg
+BT /F1 8.5 Tf 54 96 Td (Prepared for care coordination. This sample record is for system demonstration only.) Tj ET
+BT /F1 8.5 Tf 54 82 Td (Reviewed electronically by: Telehealth Clinical Desk     Status: Filed) Tj ET
+BT /F1 8 Tf 420 42 Td (Generated: 04 May 2026) Tj ET
+
+endstream endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer << /Size 7 /Root 1 0 R >>
+startxref
+3252
+%%EOF
